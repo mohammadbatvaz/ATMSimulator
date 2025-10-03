@@ -1,4 +1,4 @@
-# QuizB - Card to Card Transaction System
+# Card to Card Transaction System
 
 This project is a simplified **Card-to-Card Transaction System** for a bank, designed and implemented as part of a programming assignment.  
 The system manages bank cards, transactions, user authentication, and supports secure money transfers between cards.
